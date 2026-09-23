@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 24px;
+  background: #151918;
+  color: #e8ecea;
+}
+
+.boshi {
+  margin: 0 0 40px;
+  width: 280px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.joylashuv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.blok {
+  flex: 1 1 190px;
+  padding: 16px;
+  background: #1c2120;
+  border: 1px solid #2c3230;
+  border-radius: 6px;
+}
+
+.blok small {
+  color: #8a918f;
+  font-size: 11px;
+}
+
+.blok p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #aab0ae;
+}
+
+.past {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  gap: 10px;
+  padding: 16px;
+  background: #1c2120;
+  border: 1px solid #2c3230;
+  border-radius: 4px;
+}
+
+.ichi {
+  padding: 6px 12px;
+  font-size: 12px;
+  border: 1px solid #3a4240;
+  border-radius: 999px;
+}
